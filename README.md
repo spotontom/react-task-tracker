@@ -64,6 +64,9 @@ src/
 - React (functional components + hooks)
 - JavaScript (ES6+)
 - CSS Modules
+- Express
+- Node.js
+- Cors
 - localStorage (for persistence)
 
 ## Author
