@@ -1,0 +1,45 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f3f4f6;
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 2rem;
+    font-family: sans-serif;
+  }
+  
+  .appName {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #222;
+  }
+  
+  .userSection {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .greeting {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .logout {
+    background-color: #ef4444;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .logout:hover {
+    background-color: #dc2626;
+  }

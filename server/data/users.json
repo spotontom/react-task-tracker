@@ -1,0 +1,46 @@
+[
+  {
+    "email": "alice@example.com",
+    "username": "alice987",
+    "password": "alice123",
+    "tasks": [
+      {
+        "title": "Feed Dog",
+        "description": "Feed that dog",
+        "dueDate": "2025-06-30",
+        "completed": false
+      },
+      {
+        "title": "Call Bob",
+        "description": "ask about dog food",
+        "dueDate": "2025-06-29",
+        "completed": false
+      },
+      {
+        "title": "Get Groceries",
+        "description": "Milk, eggs, cat",
+        "dueDate": "2025-06-29",
+        "completed": false
+      },
+      {
+        "title": "do project",
+        "description": "do the project thing",
+        "dueDate": "",
+        "completed": true
+      }
+    ]
+  },
+  {
+    "email": "Bob@example.com",
+    "username": "bob987",
+    "password": "bob321",
+    "tasks": [
+      {
+        "title": "Train for the day",
+        "description": "",
+        "dueDate": "",
+        "completed": false
+      }
+    ]
+  }
+]
