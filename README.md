@@ -68,7 +68,7 @@ src/
 
 ## Author
 
-- Trendon Ellis & Class
+- Thomas Scott
 
 ## Notes
 
